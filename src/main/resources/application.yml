@@ -3,7 +3,7 @@ server:
 
 spring:
   profiles:
-    active: cloud
+    active: dev
   application:
     name: USER-SERVICE
   datasource:
